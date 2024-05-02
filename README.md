@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML & Computer Vision Developer</h3>
 <img align="right" alt_"Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on **Disease Detection and ML Models**
+- 🔭 I’m currently working on **Forecasting and Data Prediction**
 
 - 📝 I regularly write articles on [https://medium.com/@gizemak](https://medium.com/@gizemak)
 
